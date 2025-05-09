@@ -1,0 +1,7 @@
+train: ../train/images
+valid: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['bird', 'drone']
+
